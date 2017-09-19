@@ -3264,3 +3264,33 @@
     y: 353.09352873755256}
   class: image
   filename: yellow/left0709.jpg
+- annotations:
+  - {class: Unknown, height: 65.6203996951017, width: 24.530990540224934, x: 634.1261054648144,
+    y: 418.8666634743406}
+  class: image
+  filename: unidentified/left0078.jpg
+- annotations:
+  - {class: Unknown, height: 211.68257563704248, width: 88.20107318210104, x: 119.95345952765742,
+    y: 326.34397077377383}
+  class: image
+  filename: unidentified/left0264.jpg
+- annotations:
+  - {class: Unknown, height: 88.20107318210103, width: 31.752386345556374, x: 626.2276195929174,
+    y: 402.1968937103808}
+  class: image
+  filename: unidentified/left0388.jpg
+- annotations:
+  - {class: Unknown, height: 86.34190166516436, width: 29.92046097307673, x: 625.7650694940626,
+    y: 404.35365829329453}
+  class: image
+  filename: unidentified/left0389.jpg
+- annotations:
+  - {class: Unknown, height: 159.4432237582913, width: 58.25810098860643, x: 378.67765642594185,
+    y: 360.2803613769082}
+  class: image
+  filename: unidentified/left0574.jpg
+- annotations:
+  - {class: Unknown, height: 180.90673464883054, width: 65.92364059237042, x: 256.02902276571774,
+    y: 352.61482177314423}
+  class: image
+  filename: unidentified/left0699.jpg
